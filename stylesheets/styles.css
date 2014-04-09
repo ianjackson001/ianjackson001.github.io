@@ -6,6 +6,14 @@
 	margin-left:auto;
 	background-color:#000000;
 }
+#resumewrapper
+{
+	width:960px;
+	height:1300px;
+	margin-right:auto;
+	margin-left:auto;
+	background-color:#000000;
+}
 #headerdiv
 {
 	background-image:url(../images/HeaderBanner.jpg);
@@ -43,7 +51,12 @@ a:visited
 }
 #resumediv
 {
+	margin-left:100px;
+	margin-top:30px;
 	width:760px;
 	height:1000px;
 	background-image:url(../images/resume.jpg);
+	border-color:red;
+	border-style:solid;
+	border-width:5px
 }
