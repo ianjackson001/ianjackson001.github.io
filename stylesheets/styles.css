@@ -1,7 +1,7 @@
 #wrapper
 {
 	width:960px;
-	height:5000px;
+	height:870px;
 	margin-right:auto;
 	margin-left:auto;
 	background-color:#FFFFFF;
@@ -46,6 +46,7 @@ nav ul li
 	margin-left:150px;
 	font-family:"Century Gothic";
 	font-size:16pt;
+	font-weight: bold;
 }
 a:hover
 {
@@ -70,4 +71,9 @@ a:visited
 	border-color:grey;
 	border-style:solid;
 	border-width:3px
+}
+#aboutme
+{
+	font-family:"Century Gothic";
+	font-size:16pt;
 }
