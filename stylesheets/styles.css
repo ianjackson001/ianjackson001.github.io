@@ -135,11 +135,13 @@ a
 }
 #regularlink
 {
+	font-weight: bold;
 	text-decoration:none;
 	color:#247552;
 	font-size:26pt;
 }
 #regularlink:hover
 {
+	font-weight: bold;
 	color:black;
 }
