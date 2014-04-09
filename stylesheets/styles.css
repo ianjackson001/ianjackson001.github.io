@@ -1,6 +1,6 @@
 header
 {
-	background-color:lightgrey;
+	background-image:url(../images/HeaderBanner.jpg);
 	height:90px;
 }
 #wrapper
@@ -8,5 +8,5 @@ header
 	width:960px;
 	margin-right:auto;
 	margin-left:auto;
-	background-image:url(../images/HeaderBanner.jpg);
+	
 }
