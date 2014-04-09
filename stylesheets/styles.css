@@ -7,7 +7,20 @@
 	background-color:#FFFFFF;
 	border-color:grey;
 	border-style:solid;
-	border-width:4px
+	border-width:4px;
+	font-family:"Century Gothic";
+}
+#gamewrapper
+{
+	width:960px;
+	height:950px;
+	margin-right:auto;
+	margin-left:auto;
+	background-color:#FFFFFF;
+	border-color:grey;
+	border-style:solid;
+	border-width:4px;
+	font-family:"Century Gothic";
 }
 #resumewrapper
 {
@@ -18,12 +31,36 @@
 	background-color:#FFFFFF;
 	border-color:grey;
 	border-style:solid;
-	border-width:4px
+	border-width:4px;
+	font-family:"Century Gothic";
 }
 #cosmism
 {
-	color:red;
-	font-size:26pt;
+	padding-top:20px;
+	padding-right:20px;
+	padding-left:20px;
+	margin-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+	width:800px;
+	height: 300px;
+	font-size:16pt;
+	font-family:"Century Gothic";
+	background-image:url(../images/bg.jpg);
+}
+#secondGame
+{
+	padding-top:20px;
+	padding-right:20px;
+	padding-left:20px;
+	margin-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+	width:800px;
+	height: 300px;
+	font-size:16pt;
+	font-family:"Century Gothic";
+	background-image:url(../images/bg.jpg);
 }
 #headerdiv
 {
@@ -72,4 +109,14 @@ a
 {
 	font-family:"Century Gothic";
 	font-size:16pt;
+}
+#regularlink
+{
+	text-decoration:none;
+	color:#247552;
+	font-size:26pt;
+}
+#regularlink:hover
+{
+	color:black;
 }
