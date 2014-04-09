@@ -1,11 +1,43 @@
-header
-{
-	background-image:url(../images/HeaderBanner.jpg);
-	height:150px;
-}
 #wrapper
 {
 	width:960px;
+	height:5000px;
 	margin-right:auto;
 	margin-left:auto;
+	background-color:#000000;
+}
+#headerdiv
+{
+	background-image:url(../images/HeaderBanner.jpg);
+	width:960px;
+	height:150px;
+}
+#topnavbar
+{
+	height:50px;
+	width:960px;
+	background-color:#008000;
+}
+nav ul li
+{
+	text-decoration:none;
+	float:left;
+	list-style-type:none;
+	margin-left:70px;
+	font-size:14pt;
+	padding-right:65px;
+	font-size:14pt;
+}
+a:hover
+{
+	color:green;
+}
+a
+{
+	text-decoration:none;
+	color:red;
+}
+a:visited
+{
+	color:blue;
 }
