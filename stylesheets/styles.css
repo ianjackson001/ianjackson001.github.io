@@ -16,6 +16,9 @@
 	margin-right:auto;
 	margin-left:auto;
 	background-color:#FFFFFF;
+	border-color:grey;
+	border-style:solid;
+	border-width:4px
 }
 #cosmism
 {
@@ -46,16 +49,16 @@ nav ul li
 }
 a:hover
 {
-	color:purple;
+	color:white;
 }
 a
 {
 	text-decoration:none;
-	color:red;
+	color:white;
 }
 a:visited
 {
-	color:blue;
+	color:teal;
 }
 #resumediv
 {
@@ -64,7 +67,7 @@ a:visited
 	width:760px;
 	height:1000px;
 	background-image:url(../images/resume.jpg);
-	border-color:red;
+	border-color:grey;
 	border-style:solid;
-	border-width:5px
+	border-width:3px
 }
