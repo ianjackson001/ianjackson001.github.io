@@ -14,6 +14,11 @@
 	margin-left:auto;
 	background-color:#000000;
 }
+#cosmism
+{
+	color:red;
+	font-size:26pt;
+}
 #headerdiv
 {
 	background-image:url(../images/HeaderBanner.jpg);
