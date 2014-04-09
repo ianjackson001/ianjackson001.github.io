@@ -47,6 +47,9 @@
 	font-size:16pt;
 	font-family:"Century Gothic";
 	background-image:url(../images/bg.jpg);
+	border-color:#247552;
+	border-style:solid;
+	border-width:3px;
 }
 #secondGame
 {
@@ -61,6 +64,9 @@
 	font-size:16pt;
 	font-family:"Century Gothic";
 	background-image:url(../images/bg.jpg);
+	border-color:#247552;
+	border-style:solid;
+	border-width:3px;
 }
 #headerdiv
 {
