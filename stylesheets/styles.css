@@ -21,9 +21,9 @@
 }
 #headerdiv
 {
-	background-image:url(../images/HeaderBanner.jpg);
+	background-image:url(../images/newbanner.jpg);
 	width:960px;
-	height:150px;
+	height:192px;
 }
 #topnavbar
 {
@@ -37,8 +37,8 @@ nav ul li
 	text-decoration:none;
 	float:left;
 	list-style-type:none;
-	margin-left:170px;
-	font-size:14pt;
+	margin-left:150px;
+	font-family:"Century Gothic";
 	font-size:16pt;
 }
 a:hover
