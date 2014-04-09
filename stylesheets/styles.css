@@ -14,7 +14,8 @@
 }
 #topnavbar
 {
-	height:50px;
+	margin-top:-15px;
+	height:25px;
 	width:960px;
 	background-color:#008000;
 }
@@ -23,14 +24,13 @@ nav ul li
 	text-decoration:none;
 	float:left;
 	list-style-type:none;
-	margin-left:70px;
+	margin-left:170px;
 	font-size:14pt;
-	padding-right:65px;
-	font-size:14pt;
+	font-size:16pt;
 }
 a:hover
 {
-	color:green;
+	color:purple;
 }
 a
 {
@@ -40,4 +40,10 @@ a
 a:visited
 {
 	color:blue;
+}
+#resumediv
+{
+	width:760px;
+	height:1000px;
+	background-image:url(../images/resume.jpg);
 }
